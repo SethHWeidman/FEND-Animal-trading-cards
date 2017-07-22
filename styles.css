@@ -1,1 +1,6 @@
 /* add your CSS here */
+
+.animal-card {
+  border: gray;
+  border-width: 1px;
+}
