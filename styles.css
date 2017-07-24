@@ -1,6 +1,26 @@
 /* add your CSS here */
 
 .animal-card {
-  border: gray;
-  border-width: 1px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-shadow: 10px 10px 0px #eee;
+  width: 300px
+}
+
+.animal-info {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.interesting-fact {
+  font-style: italic;
+}
+
+.animal-item-label {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  padding-left:0;
 }
